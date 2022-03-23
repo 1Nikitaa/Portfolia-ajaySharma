@@ -374,14 +374,7 @@ p {
     text-align: left;
 }
 /* End Services Section */
-svg {
-  /* border: 1px solid black; */
-  display: block;
-  height: 60%;
-  width: 50%;
-  margin: auto;
-  transform: translateY(-50%);
-}
+
 /* Projects section */
 #projects .projects {
     flex-direction: column;
