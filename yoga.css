@@ -377,9 +377,9 @@ p {
 svg {
   /* border: 1px solid black; */
   display: block;
-  height: 250px;
-  width: 250px;
-  margin: 50vh auto;
+  height: 60%;
+  width: 50%;
+  margin: auto;
   transform: translateY(-50%);
 }
 /* Projects section */
